@@ -1,4 +1,4 @@
 $("document").ready(function(){
-    $(".g-unit").css("background-color", "red");
-    
+    $(".blood").css("background-color", "green");
+    $("div p:first-child").css("background-color", "orange");
 });
